@@ -1,1 +1,1 @@
-print("Hello git")
+# tu bedzie appka we Flasku
