@@ -1,1 +1,1 @@
-# tu bedzie appka we Flasku
+print("Hello world")
